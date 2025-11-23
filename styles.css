@@ -76,11 +76,6 @@ body {
   pointer-events: none;
 }
 
-.hero-subtitle {
-  color: white;
-  font-size: 20px;
-}
-
 .first-article {
   margin: 30px;
   padding: 25px;
