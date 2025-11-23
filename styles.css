@@ -52,7 +52,7 @@ body {
 
 .hero {
   background-image: url('coffee-beans.jpg.webp');
-  height: 250px;
+  /* height: 250px; */
   object-fit: cover;
   object-position: bottom;
   background-color: black;
@@ -69,16 +69,11 @@ body {
 
 .hero-title {
   color: white;
-  font-size: 40px;
+  /* font-size: 40px; */
   font-weight: bold;
   /* padding: 30px; */
   padding-top: 60px;
   pointer-events: none;
-}
-
-.hero-subtitle {
-  color: white;
-  font-size: 20px;
 }
 
 .first-article {
