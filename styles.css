@@ -1,6 +1,12 @@
 * {
   margin: 0;
 }
+
+html {
+  scroll-behavior: smooth;
+  /* overflow-anchor: none; */
+}
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-optical-sizing: auto;
@@ -51,7 +57,7 @@ body {
 }
 
 .hero {
-  background-image: url('coffee-beans.jpg.webp');
+  background-image: url('assets/images/coffee-beans.jpg.webp');
   /* height: 250px; */
   object-fit: cover;
   object-position: bottom;
