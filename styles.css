@@ -57,11 +57,11 @@ body {
 }
 
 .hero {
-  background-image: url('assets/images/coffee-beans.jpg.webp');
+  background-image: url('assets/images/coffee-beans-un.jpeg');
   /* height: 250px; */
   object-fit: cover;
   object-position: bottom;
-  background-color: black;
+  /* background-color: black; */
   display: flex;
   flex-direction: column;
   align-items: center;
